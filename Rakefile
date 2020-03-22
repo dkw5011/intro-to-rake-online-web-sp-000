@@ -20,3 +20,4 @@ namespace :db do
   end
     Student.create_table
 end
+end
